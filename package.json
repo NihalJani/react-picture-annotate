@@ -15,10 +15,19 @@
   "homepage": "https://github.com/NihalJani/react-picture-annotate#readme",
   "keywords": [
     "react",
+    "react-component",
     "image",
+    "picture",
+    "photo",
+    "annotate",
     "annotation",
     "annotator",
-    "bounding-box"
+    "labeling",
+    "bounding-box",
+    "computer-vision",
+    "machine-learning",
+    "yolo",
+    "ui"
   ],
   "main": "./dist/react-picture-annotate.umd.js",
   "module": "./dist/react-picture-annotate.es.js",
