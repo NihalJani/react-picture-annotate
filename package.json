@@ -4,7 +4,15 @@
   "private": false,
   "description": "A powerful and simple React component for image annotation.",
   "license": "MIT",
-  "author": "Your Name <your.email@example.com>",
+  "author": "Nihal Jani danburr216@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihalJani/react-picture-annotate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NihalJani/react-picture-annotate/issues"
+  },
+  "homepage": "https://github.com/NihalJani/react-picture-annotate#readme",
   "keywords": [
     "react",
     "image",
